@@ -6,7 +6,7 @@ def multiply(a,b):
     return a*b
 
 def calculate_fee(amount):
-    return amount+20
+    return amount+15
 
 def main()->None:
     x = int(input("Enter the value of the first number: "))
